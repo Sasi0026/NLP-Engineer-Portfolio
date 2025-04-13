@@ -8,6 +8,84 @@ This repository contains my journey to becoming an NLP Engineer, following a str
 ![Progress](https://progress-bar.dev/0/?title=Overall%20Progress&width=500)
 
 ## 📅 Weekly Plan and Progress
+```mermaid
+gantt
+    title NLP Engineer Portfolio Development Plan
+    dateFormat  YYYY-MM-DD
+    axisFormat %m/%d
+    
+    section Week 1: Foundations
+    Language Model Fundamentals       :a1, 2025-04-14, 2d
+    NLP Pipeline Implementation       :a2, after a1, 2d
+    Neural Network Basics             :a3, after a2, 2d
+    Review & Documentation            :a4, after a3, 1d
+    
+    section Week 2: Word Embeddings
+    Word Embeddings Implementation    :b1, 2025-04-21, 2d
+    Statistical LMs                   :b2, after b1, 2d
+    Evaluation Methods                :b3, after b2, 2d
+    Integration & Documentation       :b4, after b3, 1d
+    
+    section Week 3: Neural LMs
+    CNNs for NLP                      :c1, 2025-04-28, 2d
+    RNNs & LSTMs                      :c2, after c1, 2d
+    Seq2Seq Models                    :c3, after c2, 2d
+    Testing & Documentation           :c4, after c3, 1d
+    
+    section Week 4: Transformers
+    Self-Attention                    :d1, 2025-05-05, 2d
+    Transformer Architecture          :d2, after d1, 2d
+    Efficient Attention               :d3, after d2, 2d
+    Project Packaging                 :d4, after d3, 1d
+    
+    section Week 5: LLM Pretraining
+    Embedding Models                  :e1, 2025-05-12, 2d
+    Encoder Models                    :e2, after e1, 2d
+    Decoder Models                    :e3, after e2, 2d
+    Comparative Analysis              :e4, after e3, 1d
+    
+    section Week 6: Fine-Tuning
+    Task-Specific Fine-Tuning         :f1, 2025-05-19, 2d
+    Instruction Tuning                :f2, after f1, 2d
+    Alignment Methods                 :f3, after f2, 2d
+    Model Evaluation                  :f4, after f3, 1d
+    
+    section Week 7: Prompting
+    Prompt Engineering                :g1, 2025-05-26, 2d
+    In-Context Learning               :g2, after g1, 2d
+    Chain/Tree of Thoughts            :g3, after g2, 2d
+    Application Building              :g4, after g3, 1d
+    
+    section Week 8: Efficient LLMs
+    Knowledge Distillation            :h1, 2025-06-02, 2d
+    Model Compression                 :h2, after h1, 2d
+    Parameter-Efficient Tuning        :h3, after h2, 2d
+    Benchmarking                      :h4, after h3, 1d
+    
+    section Week 9: Augmented LLMs
+    RAG Fundamentals                  :i1, 2025-06-09, 2d
+    RAG Evaluation                    :i2, after i1, 2d
+    Tool Calling & Agents             :i3, after i2, 2d
+    Integration                       :i4, after i3, 1d
+    
+    section Week 10: Multi LLMs
+    Multilingual Models               :j1, 2025-06-16, 2d
+    Multimodal Integration            :j2, after j1, 2d
+    Challenges & Solutions            :j3, after j2, 2d
+    Demo Preparation                  :j4, after j3, 1d
+    
+    section Week 11: Responsible AI
+    Bias Detection & Mitigation       :k1, 2025-06-23, 2d
+    LLM Reasoning                     :k2, after k1, 2d
+    Long Context & Hallucination      :k3, after k2, 2d
+    Ethical Framework                 :k4, after k3, 1d
+    
+    section Week 12: Applications
+    Industry Applications             :l1, 2025-06-30, 2d
+    Portfolio Integration             :l2, after l1, 2d
+    Resume & LinkedIn Optimization    :l3, after l2, 2d
+    Job Application Strategy          :l4, after l3, 1d
+```
 
 ### Week 1: Foundations & Language Modeling Basics
 **Book Chapters:** 1 & 2 (Introduction + NLP & Neural Networks Overview)
