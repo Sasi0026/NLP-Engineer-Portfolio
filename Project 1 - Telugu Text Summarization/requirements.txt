@@ -1,0 +1,15 @@
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+transformers==4.36.0
+datasets==2.14.0
+peft==0.7.1
+evaluate==0.4.1
+rouge-score==0.1.2
+nltk==3.8.1
+pandas==2.1.4
+numpy==1.24.3
+accelerate==0.25.0
+sentencepiece==0.1.99
+protobuf==4.25.1
+safetensors==0.4.1
